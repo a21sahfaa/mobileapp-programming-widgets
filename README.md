@@ -1,9 +1,11 @@
 
 # Rapport
 
-**Skriv din rapport här!**
+det första jag gjorde var att forka appen widgets.
 
-_Du kan ta bort all text som finns sedan tidigare_.
+efter att ha forkat den och öppnat den på visual studio så klickade jag på layout och sedan på activity main xml.
+
+jag placerade 3 elements runt layouten och sedan anvönde jag constraint för positionera de.
 
 ## Följande grundsyn gäller dugga-svar:
 
@@ -33,7 +35,7 @@ function errorCallback(error) {
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](android.png)
+![](layout.png)
 
 Läs gärna:
 

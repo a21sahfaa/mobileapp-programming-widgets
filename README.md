@@ -46,8 +46,6 @@ detta är andra elementet som är en textview med constrains.
 detta är den tredje elementet som är en imageview med constrains, och den sista raden innehåller bilden. 
 
 
-
-
 Bilder läggs i samma mapp som markdown-filen.
 
 ![](widgetbild2.png)
